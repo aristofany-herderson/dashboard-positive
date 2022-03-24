@@ -1,0 +1,30 @@
+{
+  "cards": [
+    {
+      "image": "/icons/compass.svg",
+      "text": "Browse",
+      "redirect": "/dashboard/home/"
+    },
+    {
+      "image": "/icons/hearth.svg",
+      "text": "WatchList"
+    },
+    {
+      "image": "/icons/calendar.svg",
+      "text": "Coming soon"
+    },
+    {
+      "image": "/icons/people.svg",
+      "text": "Friends"
+    },
+    {
+      "image": "/icons/people_group.svg",
+      "text": "Parties"
+    },
+    {
+      "image": "/icons/settings.svg",
+      "text": "Settings",
+      "redirect": "/dashboard/settings/"
+    }
+  ]
+}

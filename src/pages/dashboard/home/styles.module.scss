@@ -1,0 +1,94 @@
+.contentPage {
+  max-width: 720px;
+  margin: 0 auto;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  .cardSingle {
+    width: calc(100% / 3);
+    padding: 1rem 2rem;
+
+    .cardWraper {
+      padding: calc(100% / 4 - 0.2rem) 0;
+      cursor: pointer;
+
+      box-shadow: 0 0 10px 0px var(--gray-200);
+      border-radius: 1rem;
+      background: var(--white);
+
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+
+      &:hover {
+        filter: invert(0.05);
+      }
+    }
+
+    .imageContainer {
+      padding: 0.7rem;
+      margin-bottom: 0.655rem;
+      border-radius: 1.25rem;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      img {
+        filter: brightness(0) invert(1);
+      }
+    }
+
+    &:nth-of-type(1) .imageContainer {
+      background: linear-gradient(
+        40deg,
+        rgba(254, 96, 8, 1) 0%,
+        rgba(239, 13, 108, 1) 100%
+      );
+    }
+    &:nth-of-type(2) .imageContainer {
+      background: linear-gradient(
+        40deg,
+        rgba(75, 218, 182, 1) 0%,
+        rgba(36, 155, 84, 1) 100%
+      );
+    }
+    &:nth-of-type(3) .imageContainer {
+      background: linear-gradient(
+        40deg,
+        rgba(251, 14, 151, 1) 0%,
+        rgba(172, 56, 127, 1) 100%
+      );
+    }
+    &:nth-of-type(4) .imageContainer {
+      background: linear-gradient(
+        40deg,
+        rgba(54, 203, 205, 1) 0%,
+        rgba(20, 74, 226, 1) 100%
+      );
+    }
+    &:nth-of-type(5) .imageContainer {
+      background: linear-gradient(
+        40deg,
+        rgba(150, 212, 74, 1) 0%,
+        rgba(87, 172, 47, 1) 100%
+      );
+    }
+    &:nth-of-type(6) .imageContainer {
+      background: linear-gradient(
+        40deg,
+        rgba(71, 117, 158, 1) 0%,
+        rgba(37, 60, 79, 1) 100%
+      );
+    }
+    &:nth-of-type(7) .imageContainer {
+      background: linear-gradient(
+        40deg,
+        rgba(252, 100, 97, 1) 0%,
+        rgba(255, 24, 20, 1) 100%
+      );
+    }
+  }
+}

@@ -1,0 +1,128 @@
+.container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  transition: opacity 0.6s;
+
+  width: 100vw;
+  height: 100vh;
+  background: var(--gray-50);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .wrapper {
+    width: auto;
+    max-height: 70%;
+
+    background: var(--white);
+    border: 0.1325rem solid var(--gray-100);
+    border-radius: 0.25em;
+
+    padding: 2rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    div {
+      width: 100%;
+
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      &.loginInformation {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        img {
+          width: 2rem;
+        }
+
+        p {
+          font-size: 1.065rem;
+          font-weight: 600;
+          text-align: center;
+          color: var(--green-700);
+        }
+      }
+
+      &.buttonsContainer {
+        flex-direction: row;
+        justify-content: space-around;
+
+        button {
+          display: flex;
+          align-items: center;
+          justify-content: space-around;
+
+          min-width: 6.665rem;
+          cursor: pointer;
+
+          background: var(--green-700);
+          border-radius: 0.25em;
+          border: 0.135rem solid var(--green-800);
+          border-bottom: 0.3rem solid var(--green-800);
+          padding: 0.533rem 0.665rem;
+
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+
+          &:active {
+            border-bottom: 0.135rem solid var(--green-800);
+            border-top: 0.3rem solid var(--green-800);
+          }
+
+          img {
+            max-width: 1.335rem;
+            filter: brightness(0) invert(1);
+
+            margin-right: 0.6rem;
+          }
+
+          p {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+
+            color: white;
+            font-weight: 500;
+            font-size: 0.865rem;
+          }
+
+          &:nth-child(1) {
+            margin-right: 0.2rem;
+            max-width: auto;
+          }
+        }
+      }
+    }
+
+    h2 {
+      margin: 1rem 0;
+      margin-bottom: 1.335rem;
+      font-size: 2rem;
+      color: var(--green-600);
+      text-align: center;
+
+      span {
+        color: var(--gray-800);
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .container {
+    padding: 0 2%;
+
+    .wrapper {
+      width: 100%;
+    }
+  }
+}

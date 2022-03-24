@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "608af59d1c649a2ef1abe46a",
+      "name": "Hernandez",
+      "year": "8º",
+      "picture": "https://github.com/aristofanyherderson.png"
+    },
+    {
+      "id": "608af59d0f37d611b4f6dd69",
+      "name": "Little",
+      "year": "7º",
+      "picture": "https://github.com/aristofanyherderson.png"
+    },
+    {
+      "id": "608af59d37d96a93a6b9adbf",
+      "name": "Morton",
+      "year": "9º",
+      "picture": "https://github.com/aristofanyherderson.png"
+    },
+    {
+      "id": "608af59dd57825700873de01",
+      "name": "Simmons",
+      "year": "6º",
+      "picture": "https://github.com/aristofanyherderson.png"
+    },
+    {
+      "id": "608af59d75fb13162f47d748",
+      "name": "Medina",
+      "year": "9º",
+      "picture": "https://github.com/aristofanyherderson.png"
+    },
+    {
+      "id": "608af59d09814ce4884ec061",
+      "name": "Maxwell",
+      "year": "6º",
+      "picture": "https://github.com/aristofanyherderson.png"
+    }
+  ]
+}
