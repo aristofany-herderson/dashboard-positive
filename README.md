@@ -23,7 +23,9 @@
 
 <p align="center">My first project with react</p>
 
-## 🧪 Technologies
+<br>
+
+## 🧪&nbsp; Technologies
 
 This project was developed with the following technologies:
 
@@ -49,7 +51,9 @@ Dev Dependencies:
 - [json-server](https://www.npmjs.com/package/json-server)
 - [typescript](https://www.npmjs.com/package/typescript)
 
-## Getting Started
+<br>
+
+## 🧑🏻‍💻&nbsp; Getting Started
 
 Clone the project and access the project folder
 
@@ -59,6 +63,7 @@ $ cd first-project-with-react
 ```
 
 To run it, follow the steps below:
+
 ```bash
 # Install dependecies
 $ yarn
@@ -72,22 +77,75 @@ $ yarn start
 
 Open http://localhost:3000 with your browser to see the result.
 
-## 💻 Project
+<br>
 
-The project is perfect for institutions that want to control and show new content to their students in a didactic and modern way! 
+## 💻&nbsp; Project
+
+The project is perfect for institutions that want to control and show new content to their students in a didactic and modern way!
 
 This is a project that was developed for the learning and evolution of the developer, being the first practical project, carried out entirely by him.
 
+<br>
 
-## Layout
+## ⌨️&nbsp; Layout
 
 You can view the project layout through the image and link below:
 
 <p id="title" align="center">
   <a href="https://www.instagram.com/p/CN9kGFgA-tO/">
-    <img src="./public/examples/example01.jpg" height="400">
+    <img src="./public/examples/example01.jpg" height="400" alt="Project layout">
     <p align="center">@websitebrainy</p>
   </a>
 </p>
 
-## Author
+<br>
+
+## 🧑🏻&nbsp; Author
+
+<p align="center">
+    <img width="20%" src="https://github.com/aristofany-herderson.png" alt="aristofany-herderson">
+  <p align="center">
+    Aristofany Herderson
+  </p >
+  <p align="center">
+    <a  href="https://www.linkedin.com/in/aristofanyherderson/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LINKEDIN-000000.svg?style=for-the-badge&labelColor=0a66c2&logo=linkedin&logoColor=fff&logoWidth=20" alt="linkedin"/>
+  </a>
+  <a href="https://twitter.com/AristofanyHerd1" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/TWITTER-000000.svg?style=for-the-badge&labelColor=1d9bf0&logo=twitter&logoColor=fff&logoWidth=20" alt="linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/aristofanyherderson/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/INSTAGRAM-000000.svg?style=for-the-badge&labelColor=dd326f&logo=instagram&logoColor=fff&logoWidth=20" alt="linkedin"/>
+  </a>
+  </p>
+</p>
+
+<br>
+
+## ✨&nbsp; Community
+
+<br>
+
+![Contributors](https://img.shields.io/github/contributors/aristofany-herderson/first-project-with-react?style=for-the-badge&labelColor=000&color=000&logo=super-user&logoColor=fff&logoWidth=20)
+
+![Issues](https://img.shields.io/github/issues/aristofany-herderson/first-project-with-react?style=for-the-badge&labelColor=000&color=000&logo=target&logoColor=fff&logoWidth=20)
+
+![Pull Requests](https://img.shields.io/github/issues-pr/aristofany-herderson/first-project-with-react?style=for-the-badge&labelColor=000&color=000&logo=gitbook&logoColor=fff&logoWidth=20)
+
+<br>
+
+## 🖥️&nbsp; Project Stats
+
+<br>
+
+#### Version
+
+![Version](https://img.shields.io/github/package-json/v/aristofany-herderson/first-project-with-react?style=for-the-badge&labelColor=000&color=000&logo=github&logoColor=fff&logoWidth=20)
+
+<br>
+
+#### Git Stats
+
+![Last Commit](https://img.shields.io/github/last-commit/aristofany-herderson/first-project-with-react?style=for-the-badge&labelColor=000&color=000&logo=git&logoColor=fff&logoWidth=20)
+
+![Github Commit Activity](https://img.shields.io/github/commit-activity/y/aristofany-herderson/first-project-with-react?style=for-the-badge&labelColor=000&color=000&logo=git&logoColor=fff&logoWidth=20)
