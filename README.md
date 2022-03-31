@@ -7,16 +7,16 @@
 
 <!-- color: 007ec6, 97ca00, 8a2be2 -->
 <p align="center">
-  <a aria-label="Positive logo" href="https://github.com/aristofanyherderson/">
+  <a target="_blank" aria-label="Positive logo" href="https://github.com/aristofanyherderson/">
     <img src="https://img.shields.io/badge/MADE%20BY%20Aristofany-000000.svg?style=for-the-badge&labelColor=000&logo=starship&logoColor=fff&logoWidth=20">
   </a>
-  <a aria-label="Project version" href="https://github.com/aristofanyherderson/first-project-with-react/blob/main/package.json">
+  <a target="_blank" aria-label="Project version" href="https://github.com/aristofanyherderson/first-project-with-react/blob/main/package.json">
     <img alt="" src="https://img.shields.io/github/package-json/v/aristofanyherderson/first-project-with-react?color=000&style=for-the-badge&labelColor=000000">
   </a>
-  <a aria-label="License" href="https://github.com/aristofany-herderson/dashboard-positive/blob/main/license.md">
+  <a target="_blank" aria-label="License" href="https://github.com/aristofany-herderson/dashboard-positive/blob/main/license.md">
     <img alt="" src="https://img.shields.io/github/license/aristofanyherderson/first-project-with-react?color=000&style=for-the-badge&labelColor=000000">
   </a>
-  <a aria-label="Join Next Community" href="https://github.com/aristofany-herderson?tab=repositories">
+  <a target="_blank" aria-label="Join Next Community" href="https://github.com/aristofany-herderson?tab=repositories">
     <img alt="" src="https://img.shields.io/badge/Enjoy%20My%20Projects-000000.svg?style=for-the-badge&color=000&logo=github&labelColor=000000&logoColor=fff&logoWidth=20">
   </a>
 </p>
@@ -92,7 +92,7 @@ This is a project that was developed for the learning and evolution of the devel
 You can view the project layout through the image and link below:
 
 <p id="title" align="center">
-  <a href="https://www.instagram.com/p/CN9kGFgA-tO/">
+  <a target="_blank" href="https://www.instagram.com/p/CN9kGFgA-tO/">
     <img src="./public/examples/example01.jpg" height="400" alt="Project layout">
     <p align="center">@websitebrainy</p>
   </a>
@@ -108,13 +108,13 @@ You can view the project layout through the image and link below:
     Aristofany Herderson
   </p >
   <p align="center">
-    <a  href="https://www.linkedin.com/in/aristofany-herderson/" target="_blank">
+    <a target="_blank"  href="https://www.linkedin.com/in/aristofany-herderson/">
     <img align="center" src="https://img.shields.io/badge/LINKEDIN-000000.svg?style=for-the-badge&labelColor=0a66c2&logo=linkedin&logoColor=fff&logoWidth=20" alt="linkedin"/>
   </a>
-  <a href="https://twitter.com/aristofanyherde" target="_blank">
+  <a target="_blank" href="https://twitter.com/aristofanyherde">
     <img align="center" src="https://img.shields.io/badge/TWITTER-000000.svg?style=for-the-badge&labelColor=1d9bf0&logo=twitter&logoColor=fff&logoWidth=20" alt="linkedin"/>
   </a>
-  <a href="https://www.instagram.com/aristofanyherderson/" target="_blank">
+  <a target="_blank" href="https://www.instagram.com/aristofanyherderson/">
     <img align="center" src="https://img.shields.io/badge/INSTAGRAM-000000.svg?style=for-the-badge&labelColor=dd326f&logo=instagram&logoColor=fff&logoWidth=20" alt="linkedin"/>
   </a>
   </p>
