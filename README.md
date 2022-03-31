@@ -13,11 +13,11 @@
   <a aria-label="Project version" href="https://github.com/aristofanyherderson/first-project-with-react/blob/main/package.json">
     <img alt="" src="https://img.shields.io/github/package-json/v/aristofanyherderson/first-project-with-react?color=000&style=for-the-badge&labelColor=000000">
   </a>
-  <a aria-label="License" href="https://github.com/vercel/next.js/blob/canary/license.md">
+  <a aria-label="License" href="https://github.com/aristofany-herderson/dashboard-positive/blob/main/license.md">
     <img alt="" src="https://img.shields.io/github/license/aristofanyherderson/first-project-with-react?color=000&style=for-the-badge&labelColor=000000">
   </a>
-  <a aria-label="Join me on Linkedin" href="https://github.com/vercel/next.js/discussions">
-    <img alt="" src="https://img.shields.io/badge/Join%20me-000000.svg?style=for-the-badge&color=000&logo=linkedIn&labelColor=000000&logoColor=fff&logoWidth=20">
+  <a aria-label="Join Next Community" href="https://github.com/aristofany-herderson?tab=repositories">
+    <img alt="" src="https://img.shields.io/badge/Enjoy%20My%20Projects-000000.svg?style=for-the-badge&color=000&logo=github&labelColor=000000&logoColor=fff&logoWidth=20">
   </a>
 </p>
 
@@ -108,10 +108,10 @@ You can view the project layout through the image and link below:
     Aristofany Herderson
   </p >
   <p align="center">
-    <a  href="https://www.linkedin.com/in/aristofanyherderson/" target="_blank">
+    <a  href="https://www.linkedin.com/in/aristofany-herderson/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LINKEDIN-000000.svg?style=for-the-badge&labelColor=0a66c2&logo=linkedin&logoColor=fff&logoWidth=20" alt="linkedin"/>
   </a>
-  <a href="https://twitter.com/AristofanyHerd1" target="_blank">
+  <a href="https://twitter.com/aristofanyherde" target="_blank">
     <img align="center" src="https://img.shields.io/badge/TWITTER-000000.svg?style=for-the-badge&labelColor=1d9bf0&logo=twitter&logoColor=fff&logoWidth=20" alt="linkedin"/>
   </a>
   <a href="https://www.instagram.com/aristofanyherderson/" target="_blank">
