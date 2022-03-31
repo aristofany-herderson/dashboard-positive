@@ -7,14 +7,14 @@
 
 <!-- color: 007ec6, 97ca00, 8a2be2 -->
 <p align="center">
-  <a aria-label="Positive logo" href="https://github.com/aristofanyherderson/">
+  <a aria-label="Made By Aristofany" href="https://github.com/aristofany-herderson/">
     <img src="https://img.shields.io/badge/MADE%20BY%20Aristofany-000000.svg?style=for-the-badge&labelColor=000&logo=starship&logoColor=fff&logoWidth=20">
   </a>
-  <a aria-label="Project version" href="https://github.com/aristofanyherderson/first-project-with-react/blob/main/package.json">
-    <img alt="" src="https://img.shields.io/github/package-json/v/aristofanyherderson/first-project-with-react?color=000&style=for-the-badge&labelColor=000000">
+  <a aria-label="Project Version" href="https://github.com/aristofany-herderson/first-project-with-react/blob/main/package.json">
+    <img alt="" src="https://img.shields.io/github/package-json/v/aristofany-herderson/first-project-with-react?color=000&style=for-the-badge&labelColor=000000">
   </a>
   <a aria-label="License" href="https://github.com/aristofany-herderson/dashboard-positive/blob/main/license.md">
-    <img alt="" src="https://img.shields.io/github/license/aristofanyherderson/first-project-with-react?color=000&style=for-the-badge&labelColor=000000">
+    <img alt="" src="https://img.shields.io/github/license/aristofany-herderson/first-project-with-react?color=000&style=for-the-badge&labelColor=000000">
   </a>
   <a aria-label="Enjoy My Repos" href="https://github.com/aristofany-herderson?tab=repositories">
     <img alt="" src="https://img.shields.io/badge/Enjoy%20My%20Projects-000000.svg?style=for-the-badge&color=000&logo=github&labelColor=000000&logoColor=fff&logoWidth=20">
@@ -58,7 +58,7 @@ Dev Dependencies:
 Clone the project and access the project folder
 
 ```bash
-$ git clone https://github.com/aristofanyherderson/first-project-with-react
+$ git clone https://github.com/aristofany-herderson/first-project-with-react
 $ cd first-project-with-react
 ```
 
